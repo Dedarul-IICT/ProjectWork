@@ -1,4 +1,4 @@
-# ProjectWork [Project Authority : Dr.Md.Liakot Ali Sir]
+# ProjectWork [Project Authority : Prof.Dr.Md.Liakot Ali Sir]
 Embedded System Design Final Project Update 
 By 
 
